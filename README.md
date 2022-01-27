@@ -12,21 +12,36 @@ Colorado Board of elections, the vote count report includes the following:
 - Calculated the percentage of votes each candidate won
 - Determined the winner of the election based on popular vote
 
+
 ### Resources
 Data Source: election_results.csv
-Software used: Python 3.9.10, Visual Studio Code 1.38.1
+
+Software used: 
+
+Python 3.9.10, Visual Studio Code 1.38.1
+
 
 ### Summary
 The analysis of the election data shows that:
 There were 369,711 votes cast in the election.
 
-### The list of Candidates:
+***County Votes:***
+-Arapahoe: 6.7% (24,801)
+-Denver: 82.8%(306,055)
+-Jefferson: 10.5% (38,855)
 
+***Largest County Turnout:***
+-Denver
+
+
+### The list of Candidates:
 *Charles Casper Stockham*
 
 *Diana DeGette*
 
 *Raymon Anthony Doane*
+
+
 
 ### The Candidate results were:
 *Charles Casper Stockham* received 23% of the the votes with 85,213 votes
@@ -35,8 +50,10 @@ There were 369,711 votes cast in the election.
 
 *Raymon Anthony Doane* received 3.1% of the the votes with 11,606 votes
 
+
 ### The election Winner was:
 ***Diana DeGetter who received 73.8% of the votes.***
+
 
 
 ### Challenge Overview
